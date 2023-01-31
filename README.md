@@ -5,8 +5,8 @@
 - 📫 How to reach me ... Please connect me through info.raihanmistry@gmail.com this email.
 - <--- Important ---> 
 - I am a Back End developer with industry experience building websites and web applications.
-- I specialize in JavaScript and have professional experience working with C#, Python and Angular.
-- I also have experience working with Vue, Ruby on Rails, and React.
+- I specialize in JavaScript and have professional experience working with PHP, Python and Java Script.
+- I also have experience working with Vue, Laravel, Rest API and React.
 
 <!---
 INFO-RAIHAN-MISTRY/INFO-RAIHAN-MISTRY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
