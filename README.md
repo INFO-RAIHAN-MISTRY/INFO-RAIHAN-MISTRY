@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @INFO-RAIHAN-MISTRY
 - 👀 I’m interested in ...Coding...
-- 🌱 I’m currently learning ...Data Science with python.
+- 🌱 I’m currently learning ...Data Science.
 - 💞️ I’m looking to collaborate on ... Other Developers.
 - 📫 How to reach me ... Please connect me through info.raihanmistry@gmail.com this email.
 - Hello, 
