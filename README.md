@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @INFO-RAIHAN-MISTRY
 - 👀 I’m interested in ...Coding...
 - 🌱 I’m currently learning ...Data Science.
-- 💞️ I’m looking to collaborate on ... Other Developers.
+- 💞️ I’m looking to collaborate with ... Other Developers.
 - 📫 How to reach me ... Please connect me through info.raihanmistry@gmail.com this email.
 - <--- Important ---> 
 - I am a Back End developer with industry experience building websites and web applications.
